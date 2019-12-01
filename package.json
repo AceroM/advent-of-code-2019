@@ -1,0 +1,25 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "Advent of code in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceroM/advent-of-code-2019.git"
+  },
+  "author": "AceroM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AceroM/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/AceroM/advent-of-code-2019#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "lodash": "^4.17.15",
+    "mocha": "^6.2.2"
+  }
+}
