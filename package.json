@@ -19,7 +19,7 @@
   "homepage": "https://github.com/AceroM/advent-of-code-2019#readme",
   "dependencies": {
     "chalk": "^3.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mocha": "^6.2.2"
   }
 }
